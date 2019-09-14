@@ -1,6 +1,6 @@
 NTS-demo
 Nam
 TODO 2nd member
-TODO 3rd member
+Son Vu
 List of url of useful git repo
 

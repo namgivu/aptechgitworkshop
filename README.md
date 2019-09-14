@@ -2,5 +2,5 @@ NTS-demo
 Nam
 Tua Nguyen
 Son Vu
-List of url of useful git repo
 
+https://github.com/topics/algorithm https://github.com/TheAlgorithms/Python 
